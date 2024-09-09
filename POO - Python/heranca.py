@@ -6,7 +6,7 @@ Herança é a relação mais íntima entre classes dentre as 4.
 Num pequeno resumo:
 Associação - usa
 Agregação - Tem
-Conposição - É dono
+Composição - É dono
 Herança - É'''
 
 class Pessoa:
