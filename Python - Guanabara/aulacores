@@ -1,0 +1,8 @@
+# nome = 'Guanabara'.strip()
+
+
+# print('Curso em Vídeo {}Python{} do Prof {}{}{}!!'.format(cores['amarelo'],cores['limpa'],\
+#                                                           cores['boldazulverm'],nome,cores['limpa']))
+import cores
+
+print('{}Python{}'.format(cores.cores['boldverdbran'],cores.cores['limpa']))
